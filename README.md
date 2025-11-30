@@ -22,6 +22,6 @@ swiggy-recommendation/ │── data/
 # Datasets (orders, restaurants, ratings) │── notebooks/    
 # Jupyter notebooks for exploration │── models/               
 # Saved recommendation models │── app.py              
-# Streamlit app │── train.py             
+# Streamlit app │── Swiggy Restaurant Recommendation.py             
 # Training script │── README.md       
 # Project documentation
